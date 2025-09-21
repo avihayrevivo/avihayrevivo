@@ -1,4 +1,4 @@
-# Hi👋 I'm Avihay!
+<h1 align="center">Hi👋 I'm Avihay!</h1>
 
 ## 👩‍💻About me:
 I'm a Full Stack Developer. My journey began at Coding Academy, where I gained solid knowledge in both frontend and backend development. This comprehensive training laid the foundation for my skills in building modern web applications.
