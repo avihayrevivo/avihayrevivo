@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Avihay Revivo<br>
+👋 Hi, I'm Avihay<br>
 💻 Full-Stack Developer<br>
 🌱 Currently improving my skills in JavaScript, React & Node.js<br>
 ⚡ Passionate about building creative web solutions
